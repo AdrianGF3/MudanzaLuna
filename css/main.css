@@ -8,8 +8,32 @@
 *{
     box-sizing: border-box;
 }
+a{
+    text-decoration: none;
+}
 header{
     background-color: var(--verde-bosque);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
+}
+header nav{
+    width: 30%;
+}
+header nav ul{
+    display: flex;
+    justify-content: space-around;
+}
+header nav ul li a{
+    color: var(--beige-claro);
+    display: flex;
+    padding: 15px;
+    border-radius: 10px;
+}
+header nav ul li a:hover{
+    background-color: var(--verde-menta);
+    transition: all 1s ease;
 }
 #wrapper{
     width: 80%;

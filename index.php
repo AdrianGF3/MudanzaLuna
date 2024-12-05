@@ -22,7 +22,7 @@
             <ul>
                 <li><a href="" class="navMenu">Inicio</a></li>
                 <li><a href="" class="navMenu">Servicios</a></li>
-                <li><a href="" class="navMenu">Nosotros</a></li>
+                <li><a href="apartados/nosotros.php" class="navMenu">Nosotros</a></li>
             </ul>
         </nav>
     </header>
