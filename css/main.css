@@ -1,0 +1,21 @@
+:root {
+    --verde-bosque: #2C6E49; /* Para el encabezado, pie de página y elementos principales.*/
+    --verde-menta: #88B04B; /*Para secciones destacadas o elementos de fondo.*/
+    --beige-claro: #F5F3E7; /*Para fondos secundarios o detalles que contrasten con el verde.*/
+    --blanco: #FFFFFF; /*Para mantener un diseño limpio y legible.*/
+    --amarillo-dorado: #FFD166; /*Para botones de llamada a la acción o detalles que llamen la atención.*/
+}
+*{
+    box-sizing: border-box;
+}
+header{
+    background-color: var(--verde-bosque);
+}
+#wrapper{
+    width: 80%;
+    margin: 0 auto;
+}
+.SliderTheme img.imgSlider {
+    width: 90%;
+    height: 30rem;
+}
