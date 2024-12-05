@@ -29,7 +29,6 @@
             <div class="container">
                 <h2>Bienvenido a Mudanzas Luna!</h2>
                 <p>Somos tu mejor opción para mudanzas rápidas, seguras y económicas. Nos encargamos de llevar tus cosas a donde necesites, cuidando cada detalle.</p>
-                <a href="#contacto" class="btn-primary">Solicita tu mudanza ahora</a>
             </div>
         </section>
         <section class="imgSlider">
@@ -38,6 +37,7 @@
                 <img src="img/camionMudanzas2.jpg" data-thumb="img/camionMudanzas2.jpg" alt="" title="This is an example of a caption" />
                 <img src="img/camionMudanzas3.PNG" data-thumb="img/camionMudanzas3.PNG" alt="" data-transition="slideInLeft" />
             </div>
+            <a href="#contacto" class="btn-primary">Solicita tu mudanza ahora</a>
         </section>
     </main>
     <footer>
