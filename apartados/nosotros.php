@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +8,7 @@
     <link rel="stylesheet" href="../css/reset.css">
     <link rel="stylesheet" href="../css/main.css">
 </head>
+
 <body>
     <header>
         <nav>
@@ -19,7 +21,7 @@
     </header>
     <main>
         <section id="inicio">
-            <div class="container">
+            <div class="containerTitulo">
                 <h2>Bienvenido a Mudanzas Luna!</h2>
                 <p>Somos tu mejor opción para mudanzas rápidas, seguras y económicas. Nos encargamos de llevar tus cosas a donde necesites, cuidando cada detalle.</p>
             </div>
@@ -34,7 +36,9 @@
         </section>
         <section class="FAQ2">
             <article class="DesplegablePregunta">
-                <a href="" id="TituloPregunta"><h3>¿En qué nos basamos para calcular el precio de una mudanza?</h3></a>
+                <a href="" id="TituloPregunta">
+                    <h3>¿En qué nos basamos para calcular el precio de una mudanza?</h3>
+                </a>
                 <div class="DesplegadoFAQ">
                     <p>Valoramos, entre otros, los siguientes datos:</p>
                     <ul>
@@ -48,20 +52,26 @@
                 </div>
             </article>
             <article class="DesplegablePregunta">
-                <a href="" id="TituloPregunta"><h3>¿Qué incluye el presupuesto de una mudanza?</h3></a>
+                <a href="" id="TituloPregunta">
+                    <h3>¿Qué incluye el presupuesto de una mudanza?</h3>
+                </a>
                 <div class="DesplegadoFAQ">
-                    <p>Las empresas de mudanzas serias y profesionales, como Mudanzas Luna, incluimos prácticamente todos los servicios que se necesitan para realizar correctamente una mudanza:  Cajas, embalaje y desembalaje, grúa, traslado especial de obras de arte o instrumentos musicales grandes, etc.</p>
+                    <p>Las empresas de mudanzas serias y profesionales, como Mudanzas Luna, incluimos prácticamente todos los servicios que se necesitan para realizar correctamente una mudanza: Cajas, embalaje y desembalaje, grúa, traslado especial de obras de arte o instrumentos musicales grandes, etc.</p>
                     <p>Ponte en contacto con nosotros para que podamos darte un precio personalizado para tu mudanza en Barcelona. </p>
                 </div>
             </article>
             <article class="DesplegablePregunta">
-                <a href="" id="TituloPregunta"><h3>¿En qué zonas trabaja Mudanzas Luna?</h3></a>
+                <a href="" id="TituloPregunta">
+                    <h3>¿En qué zonas trabaja Mudanzas Luna?</h3>
+                </a>
                 <div class="DesplegadoFAQ">
                     <p>Mudanzas Luna es una empresa de mudanzas y guardamuebles situada en Barcelona, y además de en toda la comunidad autónoma, también realizamos mudanzas a nivel nacional. Puedes pedirnos más información a través del formulario de contacto. </p>
                 </div>
             </article>
             <article class="DesplegablePregunta">
-                <a href="" id="TituloPregunta"><h3>¿Cómo pedir presupuesto para una mudanza?</h3></a>
+                <a href="" id="TituloPregunta">
+                    <h3>¿Cómo pedir presupuesto para una mudanza?</h3>
+                </a>
                 <div class="DesplegadoFAQ">
                     <p>Puedes contactar con Mudanzas Calleja de varias formas:
                     <ul>
@@ -75,7 +85,9 @@
                 </div>
             </article>
             <article class="DesplegablePregunta">
-                <a href="" id="TituloPregunta"><h3>¿Cuánto cuesta una mudanza?</h3></a>
+                <a href="" id="TituloPregunta">
+                    <h3>¿Cuánto cuesta una mudanza?</h3>
+                </a>
                 <div class="DesplegadoFAQ">
                     <p>Los factores que influyen en el precio de una mudanza son muy variados ya que partimos de la base de que no hay dos viviendas iguales, por lo tanto, no hay dos mudanzas iguales.</p>
                     <p>Para valorar adecuadamente el precio una mudanza y ajustarlo lo máximo posible a tus necesidades reales, nuestros técnicos evaluarán detalles como:</p>
@@ -94,4 +106,5 @@
         <div class="mensajeFinal">todos los derechos reservados</div>
     </footer>
 </body>
+
 </html>

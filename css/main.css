@@ -1,45 +1,67 @@
 :root {
-    --verde-bosque: #2C6E49; /* Para el encabezado, pie de página y elementos principales.*/
-    --verde-menta: #88B04B; /*Para secciones destacadas o elementos de fondo.*/
-    --beige-claro: #F5F3E7; /*Para fondos secundarios o detalles que contrasten con el verde.*/
-    --blanco: #FFFFFF; /*Para mantener un diseño limpio y legible.*/
-    --amarillo-dorado: #FFD166; /*Para botones de llamada a la acción o detalles que llamen la atención.*/
+    --verde-bosque: #2C6E49;
+    /* Para el encabezado, pie de página y elementos principales.*/
+    --verde-menta: #88B04B;
+    /*Para secciones destacadas o elementos de fondo.*/
+    --beige-claro: #F5F3E7;
+    /*Para fondos secundarios o detalles que contrasten con el verde.*/
+    --blanco: #FFFFFF;
+    /*Para mantener un diseño limpio y legible.*/
+    --amarillo-dorado: #FFD166;
+    /*Para botones de llamada a la acción o detalles que llamen la atención.*/
 }
-*{
+
+* {
     box-sizing: border-box;
 }
-a{
+
+a {
     text-decoration: none;
 }
-header{
+
+header {
     background-color: var(--verde-bosque);
     display: flex;
     justify-content: space-between;
     padding: 10px 20px;
     align-items: center;
 }
-header nav{
+
+header nav {
     width: 30%;
 }
-header nav ul{
+
+header nav ul {
     display: flex;
     justify-content: space-around;
 }
-header nav ul li a{
+
+header nav ul li a {
     color: var(--beige-claro);
     display: flex;
     padding: 15px;
     border-radius: 10px;
 }
-header nav ul li a:hover{
+
+header nav ul li a:hover {
     background-color: var(--verde-menta);
     transition: all 1s ease;
 }
-#wrapper{
+
+#wrapper {
     width: 80%;
     margin: 0 auto;
 }
+
 .SliderTheme img.imgSlider {
     width: 90%;
     height: 30rem;
+}
+
+/*Titulo*/
+.containerTitulo h2 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
 }
