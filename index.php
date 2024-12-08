@@ -21,8 +21,8 @@
         <nav>
             <ul>
                 <li><a href="" class="navMenu">Inicio</a></li>
-                <li><a href="" class="navMenu">Nosotros</a></li>
-                <li><a href="apartados/nosotros.php" class="navMenu">Contactanos</a></li>
+                <li><a href="apartados/nosotros.php" class="navMenu">Nosotros</a></li>
+                <li><a href="" class="navMenu">Contactanos</a></li>
             </ul>
         </nav>
     </header>
