@@ -138,3 +138,48 @@ footer {
     padding: 10px 20px;
     align-items: center;
 }
+
+
+
+/*CSS DEL FORMULARIO*/
+form {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: var(--beige-claro);
+    border: 1px solid var(--verde-menta);
+    border-radius: 8px;
+  }
+  
+  label {
+    display: block;
+    margin-top: 1rem;
+    font-weight: bold;
+  }
+  
+  input, select, textarea, button {
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    border: 1px solid var(--verde-bosque);
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: var(--amarillo-dorado);
+    color: var(--blanco);
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: var(--verde-menta);
+  }
+  #responseMessage {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1rem;
+  }
+    
