@@ -59,9 +59,32 @@ header nav ul li a:hover {
 }
 
 /*Titulo*/
-.containerTitulo h2 {
+#inicio .containerTitulo h2 {
     text-align: center;
     font-size: 50px;
     font-weight: bold;
     color: rgb(0, 0, 0);
+}
+
+#TituloPregunta a h3 {
+    font-size: 15px;
+    display:none;
+    position:absolute;
+    top:100%;
+    left:0;
+    background:#eee;
+    padding:0;
+}
+
+.DesplegadoFAQ p ul li:hover > ul {
+    display:block;
+}
+
+main{
+    padding-top: 100px;
+    width: 100%;
+    height: 100%;
+    text-align: left;
+    justify-content: center;  
+    box-sizing: border-box;  
 }

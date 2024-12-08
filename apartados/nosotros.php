@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>nosotros</title>
+    <title>Nosotros</title>
     <link rel="stylesheet" href="../css/reset.css">
     <link rel="stylesheet" href="../css/main.css">
 </head>
@@ -14,8 +14,8 @@
         <nav>
             <ul>
                 <li><a href="" class="navMenu">Inicio</a></li>
-                <li><a href="" class="navMenu">Servicios</a></li>
                 <li><a href="" class="navMenu">Nosotros</a></li>
+                <li><a href="" class="navMenu">Contactanos</a></li>
             </ul>
         </nav>
     </header>
@@ -23,7 +23,7 @@
         <section id="inicio">
             <div class="containerTitulo">
                 <h2>Bienvenido a Mudanzas Luna!</h2>
-                <p>Somos tu mejor opción para mudanzas rápidas, seguras y económicas. Nos encargamos de llevar tus cosas a donde necesites, cuidando cada detalle.</p>
+                <p>Somos tu mejor opción para mudanzas rápidas, seguras y económicas en Barcelona y alrrededores. Nos encargamos de llevar tus cosas a donde necesites, cuidando cada detalle.</p>
             </div>
         </section>
         <section class="FAQ1">
@@ -31,7 +31,7 @@
                 <h1>Preguntas sobre mudanzas</h1>
             </div>
             <div class="PreguntaBloqueTexto">
-                <p>En Mudanzas Luna resolvemos todas las dudas que te puedan surgir sobre el funcionamiento de nuestras mudanzas, guardamuebles, alquiler de plataformas elevadoras e información sobre nuestros seguros, ante cualquier situación.</p>
+                <p>En Mudanzas Luna resolvemos todas las dudas que te puedan surgir sobre el funcionamiento de nuestras mudanzas.</p>
             </div>
         </section>
         <section class="FAQ2">
@@ -46,18 +46,9 @@
                         <li>El <strong>tipo de objetos y muebles a trasladar</strong>, si requieren desmontaje y posterior montaje en destino.</li>
                         <li>El <strong>embalaje de los objetos</strong>, es decir, la cantidad de material de embalaje necesario: si lo hace el cliente será más barato.</li>
                         <li>El <strong>número de operarios</strong> que serán necesarios para una mudanza eficaz que finalice en el tiempo adecuado.</li>
-                        <li>Las <strong>condiciones de acceso a la vivienda</strong>, si hay o no ascensor, si es posible colocar un elevador exterior, comprobación de tramos de escalera y distancia a camión, etc.</li>
+                        <li>Las <strong>condiciones de acceso a la vivienda</strong>, si hay o no ascensor, comprobación de tramos de escalera y distancia a camión, etc.</li>
                         <li><strong>Otros aspectos</strong> tales como tipo de vehículo necesario, fechas de ejecución, distancia a destino, etc.</li>
                     </ul>
-                </div>
-            </article>
-            <article class="DesplegablePregunta">
-                <a href="" id="TituloPregunta">
-                    <h3>¿Qué incluye el presupuesto de una mudanza?</h3>
-                </a>
-                <div class="DesplegadoFAQ">
-                    <p>Las empresas de mudanzas serias y profesionales, como Mudanzas Luna, incluimos prácticamente todos los servicios que se necesitan para realizar correctamente una mudanza: Cajas, embalaje y desembalaje, grúa, traslado especial de obras de arte o instrumentos musicales grandes, etc.</p>
-                    <p>Ponte en contacto con nosotros para que podamos darte un precio personalizado para tu mudanza en Barcelona. </p>
                 </div>
             </article>
             <article class="DesplegablePregunta">
@@ -65,7 +56,14 @@
                     <h3>¿En qué zonas trabaja Mudanzas Luna?</h3>
                 </a>
                 <div class="DesplegadoFAQ">
-                    <p>Mudanzas Luna es una empresa de mudanzas y guardamuebles situada en Barcelona, y además de en toda la comunidad autónoma, también realizamos mudanzas a nivel nacional. Puedes pedirnos más información a través del formulario de contacto. </p>
+                    <p>Ayudamos con tu mudanza por zonas como:</p>
+                    <ul>
+                        <li>Sitges</li>
+                        <li>Vilanova</li>
+                        <li>San Pere de Rives</li>
+                        <li>Barcelona y alrededores</li>
+                    </ul>
+                    <p>Si necesitas algún lugar un poco más específico o diferente alrededores que mencionamos no dudes en preguntar, estamos dispuestos a ayudar sin problema alguno!!</p>
                 </div>
             </article>
             <article class="DesplegablePregunta">
@@ -73,7 +71,7 @@
                     <h3>¿Cómo pedir presupuesto para una mudanza?</h3>
                 </a>
                 <div class="DesplegadoFAQ">
-                    <p>Puedes contactar con Mudanzas Calleja de varias formas:
+                    <p>Puedes contactar con Mudanzas Luna de varias formas:
                     <ul>
                         <li>Rellenando el formulario de solicitud de presupuestos</li>
                         <li>Enviando un email a info@mudanzascalleja.com</li>
