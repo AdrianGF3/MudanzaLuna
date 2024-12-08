@@ -13,17 +13,19 @@
     <header>
         <nav>
             <ul>
-                <li><a href="" class="navMenu">Inicio</a></li>
+                <li><a href="../index.php" class="navMenu">Inicio</a></li>
                 <li><a href="" class="navMenu">Nosotros</a></li>
                 <li><a href="" class="navMenu">Contactanos</a></li>
             </ul>
         </nav>
     </header>
     <main>
-        <section id="inicio">
-            <div class="containerTitulo">
-                <h2>Bienvenido a Mudanzas Luna!</h2>
-                <p>Somos tu mejor opción para mudanzas rápidas, seguras y económicas en Barcelona y alrrededores. Nos encargamos de llevar tus cosas a donde necesites, cuidando cada detalle.</p>
+        <section id="inicio2">
+            <div class="container2">
+                <div class="imgTitulo">
+                    <h2>Bienvenido a Mudanzas Luna!</h2>
+                    <p>Somos tu mejor opción para mudanzas rápidas, seguras y económicas en Barcelona y alrrededores. Nos encargamos de llevar tus cosas a donde necesites, cuidando cada detalle.</p>
+                </div>
             </div>
         </section>
         <section class="FAQ1">
@@ -101,7 +103,7 @@
         </section>
     </main>
     <footer>
-        <div class="mensajeFinal">todos los derechos reservados</div>
+        
     </footer>
 </body>
 

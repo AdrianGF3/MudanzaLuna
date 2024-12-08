@@ -21,8 +21,8 @@
         <nav>
             <ul>
                 <li><a href="" class="navMenu">Inicio</a></li>
-                <li><a href="" class="navMenu">Nosotros</a></li>
-                <li><a href="apartados/nosotros.php" class="navMenu">Contactanos</a></li>
+                <li><a href="apartados/nosotros.php" class="navMenu">Nosotros</a></li>
+                <li><a href="" class="navMenu">Contactanos</a></li>
             </ul>
         </nav>
     </header>
@@ -32,8 +32,7 @@
             <div class="container">
                 <h2>¡Bienvenidos a Mudanzas Luna! 🌙</h2>
                 <p>Tu tranquilidad es nuestra prioridad. Sabemos lo importante que son tus pertenencias, por eso nos encargamos de cada detalle con cuidado, responsabilidad y profesionalismo. 
-                    Ya sea que estés cambiando de casa, oficina o necesites transportar algo especial, en Mudanzas Luna te acompañamos en cada paso del camino. ¡Confía en nosotros y deja tus mudanzas en las mejores manos! 🚚✨
-</p>
+                    Ya sea que estés cambiando de casa, oficina o necesites transportar algo especial, en Mudanzas Luna te acompañamos en cada paso del camino. ¡Confía en nosotros y deja tus mudanzas en las mejores manos! 🚚✨</p>
             </div>
         </section>
         <section class="SliderTheme">
@@ -47,7 +46,7 @@
     </main>
     </div>
     <footer>
-        <div class="mensajeFinal">todos los derechos reservados</div>
+
     </footer>
 </body>
 

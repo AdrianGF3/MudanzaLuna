@@ -59,12 +59,28 @@ header nav ul li a:hover {
 }
 
 /*Titulo*/
-#inicio .containerTitulo h2 {
+#inicio2{
+    background-image: url(../img/camiones.png);
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    margin-top: -100px;
+}
+.container2{
+    width: 100%;
+}
+.container2 h2 {
+    margin-top: 100px;
     text-align: center;
     font-size: 50px;
     font-weight: bold;
     color: rgb(0, 0, 0);
 }
+.container2 p{
+    text-align: center;
+}
+
 
 #TituloPregunta a h3 {
     font-size: 15px;
@@ -87,4 +103,12 @@ main{
     text-align: left;
     justify-content: center;  
     box-sizing: border-box;  
+}
+
+footer {
+    background-color: var(--verde-bosque);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
 }
