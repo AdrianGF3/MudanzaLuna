@@ -39,7 +39,46 @@ header nav ul li a:hover{
     width: 80%;
     margin: 0 auto;
 }
-.SliderTheme img.imgSlider {
-    width: 90%;
-    height: 30rem;
+
+#servicios .subtitulo{
+    font-size: 30px;
+    font-weight: bold !important;
+    margin: 20px 0;
+}
+#servicios .subtitulo span{
+    border-bottom: 2px solid var(--verde-bosque);
+}
+#servicios .subtitulo2{
+    margin-bottom: 15px;
+}
+
+/* Sección de servicios */
+.container {
+    display: flex;
+    width: 75%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.servicios{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+    margin-bottom: 3rem;
+    background-color: var(--beige-claro);
+    border-radius: 10px;
+    padding: 1rem;
+    height: 400px;
+}
+.servicios h4 {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px 0;
+    text-align: center;
+}
+.servicios div  img.imgServicios{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
 }
