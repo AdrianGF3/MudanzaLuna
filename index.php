@@ -31,7 +31,7 @@
             <section id="inicio">
                 <div class="container">
                     <h2>¡Bienvenidos a Mudanzas Luna! 🌙</h2>
-                    <p>Tu tranquilidad es nuestra prioridad. Sabemos lo importante que son tus pertenencias, por eso nos encargamos de cada detalle con cuidado, responsabilidad y profesionalismo. 
+                    <p>Tu tranquilidad es nuestra prioridad. Sabemos lo importante que son tus pertenencias, por eso nos encargamos de cada detalle con cuidado, responsabilidad y profesionalismo.
                         Ya sea que estés cambiando de casa, oficina o necesites transportar algo especial, en Mudanzas Luna te acompañamos en cada paso del camino. ¡Confía en nosotros y deja tus mudanzas en las mejores manos! 🚚✨
                     </p>
                 </div>
