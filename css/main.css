@@ -97,16 +97,16 @@ header nav ul li a:hover {
 }
 
 /*SECCION DE NOSOTROS TITULOS*/
-#inicio .containerTitulo h2 {
+#inicio .container h2 {
+    margin-top: 100px;
     text-align: center;
     font-size: 50px;
     font-weight: bold;
     color: rgb(0, 0, 0);
 }
-.container2 p{
+.container p{
     text-align: center;
 }
-
 
 #TituloPregunta a h3 {
     font-size: 15px;
@@ -137,4 +137,57 @@ footer {
     justify-content: space-between;
     padding: 10px 20px;
     align-items: center;
+}
+
+#imagenFondo{
+    background-image: url(../img/camiones.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    margin-top: -100px;
+}   
+
+.FAQ1{
+    background-image: url(../img/elemento.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+.PreguntaBloqueTitulo{
+    margin-top: 50px;
+    margin-left: 125px;
+    text-align: left;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+.PreguntaBloqueTexto{
+    margin-top: 60px;
+    text-align: left;
+    margin-right: 150px;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+.FAQ2{
+    width: 80%;
+    margin: 50px auto;
+}
+h3{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+.DesplegadoFAQ p{
+    margin: 10px 50px;
+}
+.DesplegadoFAQ li{
+    margin: 10px 100px;
+    color: gray;
+}
+.DesplegadoFAQ li strong{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
 }
